@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stream>
+    <presence from='juliet@capulet.com/balcony'>
+        <x xmlns='vcard-temp:x:update'>
+            <photo>01b87fcd030b72895ff8e88db57ec525450f000d</photo>
+        </x>
+    </presence>
+    <iq to='juliet@capulet.com' type='result' id='vc1'/>
+    <iq to='juliet@capulet.com' type='result' id='vc1'/>
+    <blah>aaaa</blah>
+    <iq to='juliet@capulet.com' type='result' id='vc1'/>
+    <a>
+        <!-- uwu -->
+    </a>
+</stream>
